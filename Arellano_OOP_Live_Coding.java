@@ -8,7 +8,7 @@ package com.mycompany.arellano_ece;
  *
  * @author Arellano_CPE113
  */
-public class Arellano_ece {
+public class Arellano_OOP_Live_Coding {
 
     public static void main(String[] args) {
        EngineeringPoint pointA = new EngineeringPoint(3, 4);
